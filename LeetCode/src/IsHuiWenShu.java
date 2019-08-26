@@ -7,7 +7,6 @@ public class IsHuiWenShu {
      * 解法1：
      * 最好理解的一种解法就是先将 整数转为字符串 ，然后将字符串分割为数组，只需要循环数组的一半长度进行判断对应元素是否相等即可。
      *
-     *
      */
 
     public static void main(String[] args) {
